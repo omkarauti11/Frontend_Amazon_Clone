@@ -30,4 +30,6 @@ To install the project and its dependencies, follow these steps:
 ![Amazon_Clone_Image](https://github.com/omkarauti11/Frontend_Amazon_Clone/assets/122270586/09f957fd-bfe2-40e6-b3a5-01f16d304280)
 
 
+## Contributing
+Feel free to contribute by creating issues or submitting pull requests.
 
